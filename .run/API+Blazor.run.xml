@@ -1,0 +1,7 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="API+Blazor" type="CompoundRunConfigurationType">
+    <toRun name="SalesOrderApi: https" type="LaunchSettings" />
+    <toRun name="SalesOrderBlazorApp: https" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>

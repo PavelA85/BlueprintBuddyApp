@@ -9,5 +9,5 @@ public class Window
     public List<SubElement> SubElements { get; set; } = new();
 
     public int OrderId { get; set; }
-    public Order Order { get; set; }
+    public required Order Order { get; set; }
 }
